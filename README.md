@@ -9,13 +9,13 @@ A fairly common statement you may hear is that data becomes information, informa
 
 Date math and basic exploratory data analysis using descriptive statistics are a corner stone of writing computer code to manage real world data that occurs in a longitudinal manner. The goal of this problem is to give you a simple data set to allow you to demonstrate your understanding of how to apply computer code to solve a problem and then further use computer code to communicate your new information to people.
 
-Using the given data and Python or R; add new variables called year_of_birth, lived_years, lived_months, lived_days then make two well formatted output tables ranking the top 10 Presidents from longest lived to shortest lived and then the top 10 presidents from shortest lived to longest lived.
+First fork this repo to your own github account. Second, using the given data and Python or R; add new variables called year_of_birth, lived_years, lived_months, lived_days then make two well formatted output tables ranking the top 10 Presidents from longest lived to shortest lived and then the top 10 presidents from shortest lived to longest lived.
 
 Then using your newly created data calculate the mean, weighted average, median, mode, max, min and standard deviation of lived_days for your data set. Output these measures in a well formatted table. Then, make a plot of a type that you think best shows the distribution of this data.
 
 Assemble your tables and plot into a single report with a title, author and date. Start the report with a 3 or 4 sentence summary of what you found, the body should have your tables and plot and any commentary about your methods or assumptions you think the reader would need to know. Finish the report with a conclusions section, where you state the conclusions you reached through this analysis.
 
-To finish commit all your code and your report to your personal Github repository and then email back CTS-IT with a link to your completed problem.
+To finish commit all your code and your report to your personal Github fork of this repository and then email back CTS-IT with a link to your completed problem.
 
 Good Luck!   
 
